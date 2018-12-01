@@ -1,0 +1,9 @@
+c:\users\default-user\documents\visual studio 2012\Projects\Ahmed_Samir_S.Calcutator\Ahmed_Samir_S.Calcutator\bin\Debug\Ahmed_Samir_S.Calcutator.exe.config
+c:\users\default-user\documents\visual studio 2012\Projects\Ahmed_Samir_S.Calcutator\Ahmed_Samir_S.Calcutator\bin\Debug\Ahmed_Samir_S.Calcutator.exe
+c:\users\default-user\documents\visual studio 2012\Projects\Ahmed_Samir_S.Calcutator\Ahmed_Samir_S.Calcutator\bin\Debug\Ahmed_Samir_S.Calcutator.pdb
+c:\users\default-user\documents\visual studio 2012\Projects\Ahmed_Samir_S.Calcutator\Ahmed_Samir_S.Calcutator\obj\Debug\Ahmed_Samir_S.Calcutator.csprojResolveAssemblyReference.cache
+c:\users\default-user\documents\visual studio 2012\Projects\Ahmed_Samir_S.Calcutator\Ahmed_Samir_S.Calcutator\obj\Debug\Ahmed_Samir_S.Calcutator.Form1.resources
+c:\users\default-user\documents\visual studio 2012\Projects\Ahmed_Samir_S.Calcutator\Ahmed_Samir_S.Calcutator\obj\Debug\Ahmed_Samir_S.Calcutator.Properties.Resources.resources
+c:\users\default-user\documents\visual studio 2012\Projects\Ahmed_Samir_S.Calcutator\Ahmed_Samir_S.Calcutator\obj\Debug\Ahmed_Samir_S.Calcutator.csproj.GenerateResource.Cache
+c:\users\default-user\documents\visual studio 2012\Projects\Ahmed_Samir_S.Calcutator\Ahmed_Samir_S.Calcutator\obj\Debug\Ahmed_Samir_S.Calcutator.exe
+c:\users\default-user\documents\visual studio 2012\Projects\Ahmed_Samir_S.Calcutator\Ahmed_Samir_S.Calcutator\obj\Debug\Ahmed_Samir_S.Calcutator.pdb
